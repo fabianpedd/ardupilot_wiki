@@ -37,6 +37,7 @@ The steps for calibration are:
   propeller removed
 - switch to MANUAL flight mode
 - disable the safety switch (if fitted)
+- arm ESC by moving the throttle stick to the lower right corner
 - move the throttle stick on your transmitter to maximum
 - add power to the motor
 
